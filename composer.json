@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ghanem\\Ajaxblade": "src/"
+            "Ghanem\\Ajaxblade\\": "src/"
         }
     }
 }
