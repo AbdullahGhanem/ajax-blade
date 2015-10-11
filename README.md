@@ -6,7 +6,7 @@ First, pull in the package through Composer.
 
 ```js
 "require": {
-    "ghanem/ajaxblade": "~1"
+	"ghanem/ajaxblade": "0.2.*"
 }
 ```
 or use.

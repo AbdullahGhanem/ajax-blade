@@ -1,6 +1,7 @@
 {
     "name": "ghanem/ajaxblade",
-    "description": "ajax blade for laravel",
+    "description": "Easy AJAX with blade",
+    "keywords": ["ajax", "blade", "laravel"],
     "license": "MIT",
     "authors": [
         {
