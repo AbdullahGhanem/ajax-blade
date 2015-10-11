@@ -1,4 +1,4 @@
-# Easy Flash Messages
+# Easy AJAX with blade
 
 ## Installation
 
@@ -8,6 +8,11 @@ First, pull in the package through Composer.
 "require": {
     "ghanem/ajaxblade": "~1"
 }
+```
+or use.
+
+```bash
+composer require ghanem/ajaxblade
 ```
 
 if using Laravel 5, include the service provider within `config/app.php`.
